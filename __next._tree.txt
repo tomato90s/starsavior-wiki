@@ -1,2 +1,3 @@
-:HL["/starsavior-wiki/_next/static/chunks/0903-ah.4y7t8.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"OBn5MtVK_6plnM--6cE-F"}
+:HL["/starsavior-wiki/_next/static/chunks/0agrdieypdx8d.css","style"]
+:HL["/starsavior-wiki/illust/bg/ILLUST_BG_TRAIN_STATION.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"FJcnC4Ifxg_p5cLYDeTWG"}
