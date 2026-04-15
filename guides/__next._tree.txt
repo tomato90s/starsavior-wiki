@@ -1,2 +1,2 @@
-:HL["/starsavior-wiki/_next/static/chunks/0g24d-1x-9qbx.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"guides","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"mH2x3BBkkSs9RvgXctPXl"}
+:HL["/starsavior-wiki/_next/static/chunks/0po6p5.hsx5-p.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"guides","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"DdlPOyK5xiTTeFYStDZvk"}
