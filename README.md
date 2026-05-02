@@ -28,4 +28,7 @@
 
 ## 反馈
 
-如有内容勘误或建议，欢迎通过 [GitHub Issues](https://github.com/tomato90s/starsavior-wiki/issues) 反馈。
+如有内容勘误或建议，欢迎通过以下方式反馈：
+
+- [GitHub Issues](https://github.com/tomato90s/starsavior-wiki/issues)
+- QQ 群：[StarSavior游戏交流群](https://qm.qq.com/q/yXKGGev6qQ)（1097522367）
